@@ -1,13 +1,25 @@
 {
-  "name": "dlmtest",
+  "name": "dontleaveme",
+  "description": "Beg users to stay on your website with one line of code.",
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "npm publish"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "repository": "git://github.com/braydentw/dontleaveme.git",
+  "bugs": "https://github.com/braydentw/dontleaveme/issues",
+  "keywords": [
+    "javascript",
+    "js",
+    "react",
+    "reactjs",
+    "nodejs",
+    "title",
+    "document"
+  ],
+  "author": "Brayden W <brayden45.dev@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "prettier": "2.2.1"
   }
