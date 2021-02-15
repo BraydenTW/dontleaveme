@@ -2,6 +2,8 @@
 
 _🙏 Beg users to stay on your website with one line of code._
 
+<a href="https://www.producthunt.com/posts/dontleaveme?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dontleaveme" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=284410&theme=light" alt="DontLeaveMe - Keep users on your website with one line of code. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 <img src="./assets/please-dont-go.gif" width="100%" />
 
 ## Usage
